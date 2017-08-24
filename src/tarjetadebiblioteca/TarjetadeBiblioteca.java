@@ -9,9 +9,14 @@ import java.util.Scanner;
 
 public class TarjetadeBiblioteca {
 
-    /**
-     * @param args the command line arguments
-     */
+    //(Autores:
+    //Camilo Chaparro
+    //Camilo Valencia Peña
+    //Guillermo Ospino
+    //Gustavo Berdugo
+    //Julian Malaver
+   
+    
     public static void main(String[] args) {
     
     Scanner in = new Scanner(System.in);
